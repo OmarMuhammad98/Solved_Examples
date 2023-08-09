@@ -1,4 +1,3 @@
-this Lap is about summation of array elemnts 
-by ca
-Author : Omar Muhammad Farg 
-Date : 29/7/2022
+this small app can transpose the array
+by : Omar Muhammad 
+E-mail : Omar.Mhmd.Farg@gmail.com

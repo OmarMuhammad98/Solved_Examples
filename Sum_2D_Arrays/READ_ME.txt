@@ -1,6 +1,3 @@
-tArray , Lenght) 
-the main function is printing the pervious elements before 
-asking the user to input the new element usining 
-Scanf() function 
-Author : Omar Muhammad Farg 
-Date : 29/7/2022
+this small app can calculate the sum of 2 (2D arrays)
+by : Omar Muhammad 
+E-mail : Omar.Mhmd.Farg@gmail.com
